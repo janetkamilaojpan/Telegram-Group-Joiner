@@ -1,0 +1,4 @@
+telethon
+asyncio
+requests
+colorama

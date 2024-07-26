@@ -1,0 +1,9 @@
+{
+    "api_id": "YOUR_API_ID",
+    "api_hash": "YOUR_API_HASH",
+    "phone_number": "YOUR_PHONE_NUMBER",
+    "invite_links": [
+        "your_invite_link_1",
+        "your_invite_link_2"
+    ]
+}
