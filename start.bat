@@ -40,7 +40,7 @@ if errorlevel 1 (
 )
 
 cls
-"!python!" main.py
+"!python!" joiner.py
 
 if errorlevel 1 (
     cls
