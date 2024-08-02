@@ -1,4 +1,3 @@
-# joiner.py
 
 import json
 import time
@@ -8,7 +7,6 @@ from telethon.errors import FloodWaitError, UserPrivacyRestrictedError
 from telethon.tl.functions.messages import ImportChatInviteRequest
 from colorama import init, Fore, Style
 
-# Initialize colorama
 init(autoreset=True)
 
 class TelegramGroupJoiner:
